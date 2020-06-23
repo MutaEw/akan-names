@@ -5,3 +5,9 @@
     background:url(/home/emuta/Documents/akan-names/images/flag.jpg);
 
 }
+h1 {
+    color:black;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
